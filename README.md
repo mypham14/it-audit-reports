@@ -11,7 +11,7 @@ Risk management policy proposal containing a risk assessment and recommendations
 * [Contact](#contact)
 
 ## Description
-Information Security management is a comprehensive practice of protecting the assets of an organization through the implementation of physical, administrative, managerial, technical and operational controls. Information must be managed properly to reduce the risk of losses due to breach in confidentiality, integrity or availability of assets. It involves managing physical, information and human assets in the organization. It involves identifying the criticality of such assets and enforcing controls/policies, procedures, standards to ensure business operates at acceptable risk levels. Security professionals are like risk advisors to organizations. 
+
 
 The objective of this project is to analyze Venmo company regarding its risk of losses due to cyber attacks and controls in place to mitigate that risk, projected to save the company $448B from cyber threats.
 
