@@ -16,27 +16,10 @@ Risk management policy proposal containing a risk assessment and recommendations
 The objective of this project is to analyze Venmo company regarding its risk of losses due to cyber attacks and controls in place to mitigate that risk, projected to save the company $448B from cyber threats.
 
 ## Methodologies
-* **Milestone 1**:
-  - Executive summary statement about Venmo - the core business functions and an overview of the business processes in the chosen system.  
-  - Security specific issues and expectations
-  - Security categorization and high-level security requirements
-  - Identify security requirements for Venmo
-  -	Identify sources or security requirements – laws, regulations and standards
-  - Determine Threats, Vulnerabilities and possible Risks (Risk matrices) in physical/electronic processes in Venmo
-  - Identify Key security roles
-  - Identify key stakeholders to ensure common understanding of security requirements
-* **Milestone 2**:
-  - Perform a risk assessment to Venmo based on milestone 1 (both qualitative and quantitative approaches) including values for Asset Value (AV), Exposure Factor (EF), Single Loss Expectancy (SLE), Annual Rate of Occurence (ARO), Return on Investment (ROI)
-  - Identify appropriate countermeasures for the problems found in Milestone 1 and 2? 
-  - Inclue physical security controls, risk mitigation plan, governance policies, legal/regulatory and security engineering controls 
-  -	Classify them as preventive/ detective/ corrective/ deterrent/ recovery/ compensating and directive controls.
-  - Further classify them as technical, administrative and physical controls.
-* **Milestone 3**:
-An IT security policy defines all the rules for individuals to access your organization’s assets. This is a document created for each organization based on the organization’s risk tolerance level and the value of the asset to its business. It is a collection of several sub-policies and procedures.
-  - Create an IT security policy for Venmo including a collection of several individual policies (Ex: Internet policy, system usage policy, anti-virus policy, etc).
-  - Include all possible sub-policies applicable to your organization based on your risks and assets identified through your previous milestones.
-  - Include all security mandates from the perspective of physical security/legal/regulatory/compliance/administrative
-  - Each policy should include the consequences – for each violation, explain the consequences.
+• Conducted detailed research on SOC 1 compliance reporting, including its function, content and comparison with a SOX engagement
+• Generated a research paper on logical access - an Information Technology General Control (ITGC) explaining its objective and significance in an audit, risks and controls (preventative, detective, and corrective) and tests that provide reasonable assurance of control objectives
+• Provided an analysis of a cyber security breach including its summary, risks, actions taken and controls recommended to improve the company's security system and prevent financial losses from cyber attacks
+• Collaborated with four team members to present a report on IBM's access management of its cloud services, including risk and management control assessment, data/processes flow diagram, audit programs and fieldwork, and recommendations to protect the company from cyber threats
 
 ## Files
 * Milestone 1 - Report - Group 7.pdf: introduction of Venmo with core business functions, processes and security risks and requirements
