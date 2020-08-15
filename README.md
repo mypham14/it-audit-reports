@@ -1,4 +1,4 @@
-# Risk Management Policy
+# Information Technology Audit Reports
 Risk management policy proposal containing a risk assessment and recommendations for controls to mitigate risk of fraud
 
 ## Table of contents
@@ -11,7 +11,6 @@ Risk management policy proposal containing a risk assessment and recommendations
 * [Contact](#contact)
 
 ## Description
-
 
 The objective of this project is to analyze Venmo company regarding its risk of losses due to cyber attacks and controls in place to mitigate that risk, projected to save the company $448B from cyber threats.
 
