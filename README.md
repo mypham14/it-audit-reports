@@ -4,7 +4,6 @@ Risk management policy proposal containing a risk assessment and recommendations
 ## Table of contents
 * [Description](#description)
 * [Methodologies](#methodologies)
-* [Results](#results)
 * [Files](#files)
 * [Status](#status)
 * [Inspiration](#inspiration)
