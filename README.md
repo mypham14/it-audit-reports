@@ -28,7 +28,7 @@ The objective of this project is to aconduct research on multiple information te
   - Examples of preventative, detective, and corrective controls within your assigned ITGC.
   - A description and elaboration on which tests would be performed in order to provide
 reasonable assurance for the identified control objective(s) above.
-* **Assignment 3**: Provide an analysis of a cyber security breach including its summary, risks, actions taken and controls recommended to improve the company's security system and prevent financial losses from cyber attacks
+* [**Assignment 3**](https://github.com/mypham14/it-audit-reports/blob/master/Assignment3.Group5.pdf): Provide an analysis of a cyber security breach including its summary, risks, actions taken and controls recommended to improve the company's security system and prevent financial losses from cyber attacks
   - A brief overview of the company: background, executive team, external auditors
   - Description of the breach
     - How it happened
@@ -43,9 +43,10 @@ reasonable assurance for the identified control objective(s) above.
 * Assignment1.Group5.pptx: analysis of SOC 1 compliance report
 * Assignment2.Group5.pdf: research on logical access (ITGC)
 * Assignment3.Group5.pdf: research on risks of a cyber security breach
-* FinalProject.Outline.Group5.pdf: outline of report on IBM's access management policy
-* FinalProject.Paper.Group5.pdf: report on IBM's access management of cloud services
-* FinalProject.Presentation.Group5.pptx: presentation of report on IBM's access management
+* Assignment 4:
+  * FinalProject.Outline.Group5.pdf: outline of report on IBM's access management policy
+  * FinalProject.Paper.Group5.pdf: report on IBM's access management of cloud services
+  * FinalProject.Presentation.Group5.pptx: presentation of report on IBM's access management
 
 ## Status
 Project is finished.
