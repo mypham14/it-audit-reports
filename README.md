@@ -11,7 +11,7 @@ Risk management policy proposal containing a risk assessment and recommendations
 
 ## Description
 
-The objective of this project is to aconduct research on multiple information technology audit topics and provide recommendations on controls to mitigate the risk of financial losses due to cyber threats for companies analyzed, helping them improve their security systems.
+The objective of this project is to conduct research on multiple information technology audit topics and provide recommendations on controls to mitigate the risk of financial losses due to cyber threats for companies analyzed, helping them improve their security systems.
 
 ## Methodologies
 * [**Assignment 1**](https://github.com/mypham14/it-audit-reports/blob/master/Assignment1.Group5.pptx): Conduct detailed research on SOC 1 compliance reporting, including its function, content and comparison with a SOX engagement
