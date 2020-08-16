@@ -21,7 +21,7 @@ The objective of this project is to aconduct research on multiple information te
   - What types of items would you expect to find within your report based on your prior example
   - Explain general differences between your report and a SOX engagement
   - Explain the implications for a company that received a “failed” report
-* **Assignment 2**: Generate a research paper on logical access - an Information Technology General Control (ITGC) explaining its objective and significance in an audit, risks and controls (preventative, detective, and corrective) and tests that provide reasonable assurance of control objectives
+* [**Assignment 2**](https://github.com/mypham14/it-audit-reports/blob/master/Assignment2.Group5.pdf): Generate a research paper on logical access - an Information Technology General Control (ITGC) explaining its objective and significance in an audit, risks and controls (preventative, detective, and corrective) and tests that provide reasonable assurance of control objectives
   - A brief overview of ITGC’s as well as explaining their overall objectives, how they are related to the “business” and why they are crucial for performing audits (i.e. the role ITGC’s play in SOX compliance or other attestation reports)
   - The risks associated with your assigned ITGC
   - Examples of control objectives surrounding your ITGC
